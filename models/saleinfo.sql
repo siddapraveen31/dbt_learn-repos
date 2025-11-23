@@ -1,0 +1,1 @@
+select sum(amount) from DBT_DB.DBT_SCH.sales
